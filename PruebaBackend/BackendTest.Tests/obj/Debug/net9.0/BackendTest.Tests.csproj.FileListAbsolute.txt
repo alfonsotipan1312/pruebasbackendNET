@@ -1,0 +1,12 @@
+C:\Requerimiento-CSharp\PruebaBackend\BackendTest.Tests\obj\Debug\net9.0\BackendTest.Tests.csproj.AssemblyReference.cache
+C:\Requerimiento-CSharp\PruebaBackend\BackendTest.Tests\obj\Debug\net9.0\BackendTest.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Requerimiento-CSharp\PruebaBackend\BackendTest.Tests\obj\Debug\net9.0\BackendTest.Tests.AssemblyInfoInputs.cache
+C:\Requerimiento-CSharp\PruebaBackend\BackendTest.Tests\obj\Debug\net9.0\BackendTest.Tests.AssemblyInfo.cs
+C:\Requerimiento-CSharp\PruebaBackend\BackendTest.Tests\obj\Debug\net9.0\BackendTest.Tests.csproj.CoreCompileInputs.cache
+C:\Requerimiento-CSharp\BackendTest.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_BackendTest.Tests
+C:\Requerimiento-CSharp\BackendTest.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_BackendTest.Tests
+C:\Requerimiento-CSharp\BackendTest.Tests\obj\Debug\net9.0\BackendTest.Tests.csproj.AssemblyReference.cache
+C:\Requerimiento-CSharp\BackendTest.Tests\obj\Debug\net9.0\BackendTest.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Requerimiento-CSharp\BackendTest.Tests\obj\Debug\net9.0\BackendTest.Tests.AssemblyInfoInputs.cache
+C:\Requerimiento-CSharp\BackendTest.Tests\obj\Debug\net9.0\BackendTest.Tests.AssemblyInfo.cs
+C:\Requerimiento-CSharp\BackendTest.Tests\obj\Debug\net9.0\BackendTest.Tests.csproj.CoreCompileInputs.cache
